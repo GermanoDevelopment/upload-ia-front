@@ -4,4 +4,4 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criando 
 
 ## Tecnologias
 
-Front-end: React.js, Node.js, Pnpm, PostCSS, TailwindCSS, Vite.js, Radix-ui, Shadcn/ui.
+Front-end: React.js, Node.js, Pnpm, PostCSS, TailwindCSS, Vite.js, Radix-ui, Shadcn/ui, Ffmpeg.wasm, Axios.
